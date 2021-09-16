@@ -20,6 +20,10 @@
     "url": "https://github.com/matt-dray/cran"
   },
   {
+    "package": "dehex",
+    "url": "https://github.com/matt-dray/dehex"
+  },
+  {
     "package": "dialga",
     "url": "https://github.com/matt-dray/dialga"
   },
