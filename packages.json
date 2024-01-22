@@ -1,5 +1,9 @@
 [
   {
+    "package": "a11ytables",
+    "url": "https://github.com/co-analysis/a11ytables"
+  },
+  {
     "package": "ActionSquirrel",
     "url": "https://github.com/matt-dray/ActionSquirrel"
   },
