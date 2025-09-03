@@ -1,158 +1,46 @@
 [
   {
-    "package": "a11ytables",
-    "url": "https://github.com/co-analysis/a11ytables"
-  },
-  {
-    "package": "ActionSquirrel",
-    "url": "https://github.com/matt-dray/ActionSquirrel"
-  },
-  {
-    "package": "altcheckr",
-    "url": "https://github.com/matt-dray/altcheckr"
-  },
-  {
-    "package": "backtick",
-    "url": "https://github.com/matt-dray/backtick"
-  },
-  {
     "package": "badgr",
     "url": "https://github.com/matt-dray/badgr"
-  },
-  {
-    "package": "bd2q",
-    "url": "https://github.com/matt-dray/bd2q"
-  },
-  {
-    "package": "blogsnip",
-    "url": "https://github.com/matt-dray/blogsnip"
   },
   {
     "package": "coloratio",
     "url": "https://github.com/matt-dray/coloratio"
   },
   {
-    "package": "cran",
-    "url": "https://github.com/matt-dray/cran"
-  },
-  {
-    "package": "choosethis",
-    "url": "https://github.com/matt-dray/choosethis"
-  },
-  {
-    "package": "dehex",
-    "url": "https://github.com/matt-dray/dehex"
-  },
-  {
-    "package": "defenestrate",
-    "url": "https://github.com/matt-dray/defenestrate"
-  },
-  {
     "package": "dialga",
     "url": "https://github.com/matt-dray/dialga"
   },
   {
-    "package": "emojiscape",
-    "url": "https://github.com/matt-dray/emojiscape"
-  },
-  {
-    "package": "gdstheme",
-    "url": "https://github.com/matt-dray/gdstheme"
+    "package": "gex",
+    "url": "https://github.com/matt-dray/gex"
   },
   {
     "package": "ghdump",
     "url": "https://github.com/matt-dray/ghdump"
   },
   {
-    "package": "gpx3d",
-    "url": "https://github.com/matt-dray/gpx3d"
-  },
-  {
-    "package": "hokey",
-    "url": "https://github.com/matt-dray/hokey"
-  },
-  {
-    "package": "hiscore",
-    "url": "https://github.com/matt-dray/hiscore"
-  },
-  {
-    "package": "kevinbacran",
-    "url": "https://github.com/matt-dray/kevinbacran"
-  },
-  {
-    "package": "linkrot",
-    "url": "https://github.com/matt-dray/linkrot"
-  },
-  {
-    "package": "oystr",
-    "url": "https://github.com/matt-dray/oystr"
-  },
-  {
-    "package": "pico",
-    "url": "https://github.com/matt-dray/pico"
-  },
-  {
     "package": "pixeltrix",
     "url": "https://github.com/matt-dray/pixeltrix"
-  },
-  {
-    "package": "plunderplot",
-    "url": "https://github.com/matt-dray/plunderplot"
-  },
-  {
-    "package": "potato",
-    "url": "https://github.com/matt-dray/potato"
   },
   {
     "package": "quartostamp",
     "url": "https://github.com/matt-dray/quartostamp"
   },
   {
-    "package": "r2eng",
-    "url": "https://github.com/matt-dray/r2eng"
-  },
-  {
-    "package": "r.oguelike",
-    "url": "https://github.com/matt-dray/r.oguelike"
-  },
-  {
     "package": "remorse",
     "url": "https://github.com/matt-dray/remorse"
-  },
-  {
-    "package": "safar6",
-    "url": "https://github.com/matt-dray/safar6"
-  },
-  {
-    "package": "soccercolleagues",
-    "url": "https://github.com/matt-dray/soccercolleagues"
   },
   {
     "package": "snorkel",
     "url": "https://github.com/matt-dray/snorkel"
   },
   {
-    "package": "skyphone",
-    "url": "https://github.com/matt-dray/skyphone"
-  },
-  {
-    "package": "tide",
-    "url": "https://github.com/matt-dray/tide"
-  },
-  {
     "package": "tamRgo",
     "url": "https://github.com/matt-dray/tamRgo"
   },
   {
-    "package": "tidyquiz",
-    "url": "https://github.com/matt-dray/tidyquiz"
-  },
-  {
     "package": "trapinch",
     "url": "https://github.com/matt-dray/trapinch"
-  },
-  {
-    "package": "wordup",
-    "url": "https://github.com/matt-dray/wordup"
   }
 ]
